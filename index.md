@@ -1,7 +1,3 @@
-## Welcome to GitHub Pages
-
-### Markdown
-
 **Privacy Policy**
 
 Shurik built the Exchange Rates app as a Free app. This SERVICE is provided by Shurik at no cost and is intended for use as is.
